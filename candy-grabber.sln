@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "candy-grabber", "candy-grabber\candy-grabber.csproj", "{C1514546-9A75-4403-92B0-146192EBCBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1514546-9A75-4403-92B0-146192EBCBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1514546-9A75-4403-92B0-146192EBCBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1514546-9A75-4403-92B0-146192EBCBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1514546-9A75-4403-92B0-146192EBCBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B73D18C-57E7-458B-BE26-B8AFE070CF30}
+	EndGlobalSection
+EndGlobal
