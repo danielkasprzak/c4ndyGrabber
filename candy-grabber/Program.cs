@@ -58,7 +58,10 @@ namespace CHANGE_NAMESPACE_TO_YOUR_NAMESPACE_IF_YOU_WANT_TO_USE_THIS_IN_YOUR_OWN
             discordTokens = discordTokens.Distinct().ToList();
             
             #if DEBUG
-            Console.WriteLine(discordTokens);
+            foreach (var token in discordTokens)
+            {
+                Console.WriteLine(token);
+            }
             #endif
 
             return discordTokens;
