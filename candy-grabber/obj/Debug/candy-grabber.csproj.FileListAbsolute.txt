@@ -1,7 +1,0 @@
-C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\bin\Debug\candy-grabber.exe.config
-C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\bin\Debug\candy-grabber.exe
-C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\bin\Debug\candy-grabber.pdb
-C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\obj\Debug\candy-grabber.csprojAssemblyReference.cache
-C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\obj\Debug\candy-grabber.csproj.CoreCompileInputs.cache
-C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\obj\Debug\candy-grabber.exe
-C:\Users\Daniel\Desktop\candy-grabber\candy-grabber\obj\Debug\candy-grabber.pdb
