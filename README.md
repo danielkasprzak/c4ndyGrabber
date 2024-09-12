@@ -1,8 +1,6 @@
 # c4ndyGrabber
 C# Discord Token and IP grabber
 
-Remember to change `webhook` otherwise the report wont be able to come.
-
 ### Login with token JS function
 
 ```
@@ -14,9 +12,3 @@ login("token")
 > Paste it into console at login discord page
 
 *Made only for educational purposes*
-
-<div align="center">
-  
-[![paypal](https://www.paypalobjects.com/en_US/PL/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=LHX286XBZ5BZS)
-  
-</div>
